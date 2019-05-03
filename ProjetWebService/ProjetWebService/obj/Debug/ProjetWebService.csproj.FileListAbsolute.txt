@@ -1,0 +1,7 @@
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\bin\ProjetWebService.dll.config
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\bin\ProjetWebService.dll
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\bin\ProjetWebService.pdb
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\obj\Debug\ProjetWebService.csprojAssemblyReference.cache
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\obj\Debug\ProjetWebService.csproj.CoreCompileInputs.cache
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\obj\Debug\ProjetWebService.dll
+C:\Users\Ashan\source\repos\ProjetWebService\ProjetWebService\obj\Debug\ProjetWebService.pdb
